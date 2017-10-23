@@ -1,2 +1,2 @@
 # Images
-This is jsut for storing images.
+This is just for storing images.
